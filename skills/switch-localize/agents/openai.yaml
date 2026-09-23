@@ -1,0 +1,4 @@
+interface:
+  display_name: "Switch Localize"
+  short_description: "Translate dialogue, menus, sprites and tiny details"
+  default_prompt: "Use $switch-localize to inspect my privately supplied game files and build a verified translation patch for my chosen language."
